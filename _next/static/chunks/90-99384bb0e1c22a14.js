@@ -815,7 +815,7 @@
             children: [
               {
                 label: "Docs",
-                href: "https://jonathans-organization-27.gitbook.io/segmai",
+                href: "https://docs.segmai.xyz",
                 image: "",
               },
               {
@@ -1576,9 +1576,9 @@
           return h;
         },
       });
-      let i = "Join Waitlist",
+      let i = "Launch App",
         a = "Perpetual Datasets for AI",
-        r = "Join Waitlist",
+        r = "Launch App",
         n = "Docs",
         s = "problem",
         l =
@@ -1608,7 +1608,7 @@
         Y = "Secure submissions on the platform by Staking and earn rewards",
         B = "Own the Revenue and Governance Rights",
         C = "Powered by Frac Token",
-        I = "Join Waitlist",
+        I = "Launch App",
         U = "Ecosystem Partners",
         T = "Perpetually Labelled",
         v =

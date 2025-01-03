@@ -116,7 +116,7 @@
                               (0, t.jsxs)(j.default, {
                                 className:
                                   "relative transparent-bg-parent w-[7.1875rem] h-[9rem]",
-                                href: "https://jonathans-organization-27.gitbook.io/segmai",
+                                href: "https://docs.segmai.xyz",
                                 target: "_blank",
                                 children: [
                                   (0, t.jsx)("div", {
@@ -1494,7 +1494,7 @@
                               ],
                             }),
                             (0, t.jsxs)(j.default, {
-                              href: "https://jonathans-organization-27.gitbook.io/segmai",
+                              href: "https://docs.segmai.xyz",
                               target: "_blank",
                               className:
                                 "relative transparent-bg-parent w-[29.487rem] h-[36.923rem]",
