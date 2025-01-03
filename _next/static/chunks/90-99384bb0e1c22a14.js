@@ -354,7 +354,7 @@
                     }),
                   }),
                   (0, i.jsxs)(c.default, {
-                    href: "/waitlist",
+                    href: "https://app.segmai.xyz",
                     className: "flex pl-[14.615rem]",
                     children: [
                       (0, i.jsx)("figure", {
@@ -674,7 +674,7 @@
                 }),
                 (0, i.jsxs)(d.default, {
                   className: "flex",
-                  href: "/waitlist",
+                  href: "https://app.segmai.xyz",
                   children: [
                     (0, i.jsx)(o.default, {
                       alt: "arrow",

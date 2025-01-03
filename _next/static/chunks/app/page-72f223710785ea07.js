@@ -95,7 +95,7 @@
                             className: "flex text-[1.125rem] gap-[1.25rem]",
                             children: [
                               (0, t.jsxs)(j.default, {
-                                href: "/waitlist",
+                                href: "https://app.segmai.xyz",
                                 className:
                                   "relative solid-bg-parent w-[9rem] h-[9rem]",
                                 children: [
@@ -661,7 +661,7 @@
               }),
             }),
             (0, t.jsxs)(j.default, {
-              href: "/waitlist",
+              href: "https://app.segmai.xyz",
               className:
                 "absolute solid-bg-parent w-[9rem] h-[9rem] top-[49.5rem] left-[63.375rem] z-[60]",
               children: [
@@ -1474,7 +1474,7 @@
                           className: "flex gap-[5.128rem]",
                           children: [
                             (0, t.jsxs)(j.default, {
-                              href: "/waitlist",
+                              href: "https://app.segmai.xyz",
                               className:
                                 "relative solid-bg-parent w-[36.923rem] h-[36.923rem]",
                               children: [
@@ -2187,7 +2187,7 @@
                 className:
                   "absolute bottom-0 flex justify-center w-full z-[60]",
                 children: (0, t.jsxs)(j.default, {
-                  href: "/waitlist",
+                  href: "https://app.segmai.xyz",
                   className:
                     "relative solid-bg-parent w-[36.923rem] h-[36.923rem]",
                   children: [
