@@ -1,0 +1,13 @@
+.waitlist-heading {
+  color: var(--Greyscale-100, #fff);
+  text-align: center;
+  font-family: PolySans Bulky Wide, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%;
+}
+.gradient-text {
+  background: linear-gradient(90deg, #f0f, #8000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
